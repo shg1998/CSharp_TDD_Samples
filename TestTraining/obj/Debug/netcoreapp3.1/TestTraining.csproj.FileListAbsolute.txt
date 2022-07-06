@@ -12,3 +12,17 @@ C:\Users\m.nezhad\source\repos\TestTraining\TestTraining\obj\Debug\netcoreapp3.1
 C:\Users\m.nezhad\source\repos\TestTraining\TestTraining\obj\Debug\netcoreapp3.1\TestTraining.pdb
 C:\Users\m.nezhad\source\repos\TestTraining\TestTraining\obj\Debug\netcoreapp3.1\TestTraining.genruntimeconfig.cache
 C:\Users\m.nezhad\source\repos\TestTraining\TestTraining\obj\Debug\netcoreapp3.1\TestTraining.csproj.AssemblyReference.cache
+G:\Projects\401-04-14\Git\CSharp_TDD_Samples\TestTraining\bin\Debug\netcoreapp3.1\TestTraining.exe
+G:\Projects\401-04-14\Git\CSharp_TDD_Samples\TestTraining\bin\Debug\netcoreapp3.1\TestTraining.deps.json
+G:\Projects\401-04-14\Git\CSharp_TDD_Samples\TestTraining\bin\Debug\netcoreapp3.1\TestTraining.runtimeconfig.json
+G:\Projects\401-04-14\Git\CSharp_TDD_Samples\TestTraining\bin\Debug\netcoreapp3.1\TestTraining.runtimeconfig.dev.json
+G:\Projects\401-04-14\Git\CSharp_TDD_Samples\TestTraining\bin\Debug\netcoreapp3.1\TestTraining.dll
+G:\Projects\401-04-14\Git\CSharp_TDD_Samples\TestTraining\bin\Debug\netcoreapp3.1\TestTraining.pdb
+G:\Projects\401-04-14\Git\CSharp_TDD_Samples\TestTraining\obj\Debug\netcoreapp3.1\TestTraining.csproj.AssemblyReference.cache
+G:\Projects\401-04-14\Git\CSharp_TDD_Samples\TestTraining\obj\Debug\netcoreapp3.1\TestTraining.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\401-04-14\Git\CSharp_TDD_Samples\TestTraining\obj\Debug\netcoreapp3.1\TestTraining.AssemblyInfoInputs.cache
+G:\Projects\401-04-14\Git\CSharp_TDD_Samples\TestTraining\obj\Debug\netcoreapp3.1\TestTraining.AssemblyInfo.cs
+G:\Projects\401-04-14\Git\CSharp_TDD_Samples\TestTraining\obj\Debug\netcoreapp3.1\TestTraining.csproj.CoreCompileInputs.cache
+G:\Projects\401-04-14\Git\CSharp_TDD_Samples\TestTraining\obj\Debug\netcoreapp3.1\TestTraining.dll
+G:\Projects\401-04-14\Git\CSharp_TDD_Samples\TestTraining\obj\Debug\netcoreapp3.1\TestTraining.pdb
+G:\Projects\401-04-14\Git\CSharp_TDD_Samples\TestTraining\obj\Debug\netcoreapp3.1\TestTraining.genruntimeconfig.cache

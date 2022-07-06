@@ -5933,11 +5933,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.nezhad\\source\\repos\\TestTraining\\Calculations.Tests\\Calculations.Tests.csproj",
+      "projectUniqueName": "G:\\Projects\\401-04-14\\Git\\CSharp_TDD_Samples\\Calculations.Tests\\Calculations.Tests.csproj",
       "projectName": "Calculations.Tests",
-      "projectPath": "C:\\Users\\m.nezhad\\source\\repos\\TestTraining\\Calculations.Tests\\Calculations.Tests.csproj",
+      "projectPath": "G:\\Projects\\401-04-14\\Git\\CSharp_TDD_Samples\\Calculations.Tests\\Calculations.Tests.csproj",
       "packagesPath": "C:\\Users\\m.nezhad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.nezhad\\source\\repos\\TestTraining\\Calculations.Tests\\obj\\",
+      "outputPath": "G:\\Projects\\401-04-14\\Git\\CSharp_TDD_Samples\\Calculations.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5959,8 +5959,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\m.nezhad\\source\\repos\\TestTraining\\TestTraining\\TestTraining.csproj": {
-              "projectPath": "C:\\Users\\m.nezhad\\source\\repos\\TestTraining\\TestTraining\\TestTraining.csproj"
+            "G:\\Projects\\401-04-14\\Git\\CSharp_TDD_Samples\\TestTraining\\TestTraining.csproj": {
+              "projectPath": "G:\\Projects\\401-04-14\\Git\\CSharp_TDD_Samples\\TestTraining\\TestTraining.csproj"
             }
           }
         }

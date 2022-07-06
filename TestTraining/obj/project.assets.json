@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.nezhad\\source\\repos\\TestTraining\\TestTraining\\TestTraining.csproj",
+      "projectUniqueName": "G:\\Projects\\401-04-14\\Git\\CSharp_TDD_Samples\\TestTraining\\TestTraining.csproj",
       "projectName": "TestTraining",
-      "projectPath": "C:\\Users\\m.nezhad\\source\\repos\\TestTraining\\TestTraining\\TestTraining.csproj",
+      "projectPath": "G:\\Projects\\401-04-14\\Git\\CSharp_TDD_Samples\\TestTraining\\TestTraining.csproj",
       "packagesPath": "C:\\Users\\m.nezhad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.nezhad\\source\\repos\\TestTraining\\TestTraining\\obj\\",
+      "outputPath": "G:\\Projects\\401-04-14\\Git\\CSharp_TDD_Samples\\TestTraining\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

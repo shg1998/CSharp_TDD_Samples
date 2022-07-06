@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fQhZ7fJGiPtamtzewXw9VAfnh2EUQQUGGnnNf+Vbb8pfiRwC0ZNw4dNM/inXhjcxCi0mhvwHspudYg1oLuHzcA==",
+  "dgSpecHash": "ZB3T3lQ9CygQ0RvOt5FT0C6If/VS8V5dSGcaHg1idXcMKULOjmkj7RA/g2qQE4qs+MDOmvBx67Ew8Q2cpEF+Mg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.nezhad\\source\\repos\\TestTraining\\Calculations.Tests\\Calculations.Tests.csproj",
+  "projectFilePath": "G:\\Projects\\401-04-14\\Git\\CSharp_TDD_Samples\\Calculations.Tests\\Calculations.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\m.nezhad\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\m.nezhad\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

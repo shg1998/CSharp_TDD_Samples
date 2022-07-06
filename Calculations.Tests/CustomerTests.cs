@@ -1,0 +1,40 @@
+﻿using System;
+using TestTraining;
+using Xunit;
+
+namespace Calculations.Tests
+{
+    public class CustomerTests
+    {
+        //[Fact]
+        //public void CheckNameNotEmpty()
+        //{
+        //    var customer = new Customer();
+        //    Assert.NotNull(customer.Name);
+        //    Assert.False(string.IsNullOrEmpty(customer.Name));
+        //}
+
+        [Fact]
+        public void CheckLegitForDiscount()
+        {
+            var customer = new Customer();
+            Assert.InRange(customer.Age, 23, 41);
+        }
+
+        [Fact]
+        public void GetOrderByNameNotNull()
+        {
+            var customer = new Customer();
+            var exceptionDetails = Assert.Throws<ArgumentException>(() => customer.GetOrdersByName(""));
+            Assert.Equal("Error Khordi ke ? ", exceptionDetails.Message);
+        }
+
+        [Fact]
+        public void LoyalCustomerForOrderThatIsGreaterThan100()
+        {
+            var customer = CustomerFactory.CreateCustomerInstance(109);
+            var loyalCustomer = Assert.IsType<LoyalCustomer>(customer);
+            Assert.Equal(9,loyalCustomer.Discount);
+        }
+    }
+}
