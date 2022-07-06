@@ -4,5 +4,6 @@
     &lt;TestId&gt;xUnit::EED58509-3922-4F23-84CA-E340E4C7C4CC::.NETCoreApp,Version=v3.1::Calculations.Tests.CalculatorTest.IsOdd_TestOddAndEvent&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::EED58509-3922-4F23-84CA-E340E4C7C4CC::.NETCoreApp,Version=v3.1::Calculations.Tests.CustomerTests.CheckNameNotEmpty&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::EED58509-3922-4F23-84CA-E340E4C7C4CC::.NETCoreApp,Version=v3.1::Calculations.Tests.CustomerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EED58509-3922-4F23-84CA-E340E4C7C4CC::.NETCoreApp,Version=v3.1::Calculations.Tests.CustomerDetailsTests.GetFullName_GivenFirstAndLastName_ReturnsFullName&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

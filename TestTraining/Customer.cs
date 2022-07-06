@@ -11,16 +11,15 @@ namespace TestTraining
             return 100;
         }
         public int Age => 23;
+
+        public string GetFullName(string fName, string lName) => fName + " " + lName;
     }
 
     public class LoyalCustomer : Customer
     {
         public int Discount { get; set; }
 
-        public LoyalCustomer()
-        {
-            Discount = 9;
-        }
+        public LoyalCustomer() => Discount = 9;
     }
 
     public static class CustomerFactory

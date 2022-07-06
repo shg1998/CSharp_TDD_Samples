@@ -4,8 +4,15 @@ using Xunit;
 
 namespace Calculations.Tests
 {
+    [Collection("Customer")]
     public class CustomerTests
     {
+        private readonly CustomerFixture _customerFixture;
+        public CustomerTests(CustomerFixture customerFixture)
+        {
+            this._customerFixture = customerFixture;
+        }
+
         //[Fact]
         //public void CheckNameNotEmpty()
         //{
@@ -17,14 +24,14 @@ namespace Calculations.Tests
         [Fact]
         public void CheckLegitForDiscount()
         {
-            var customer = new Customer();
+            var customer = this._customerFixture.Cstmr;
             Assert.InRange(customer.Age, 23, 41);
         }
 
         [Fact]
         public void GetOrderByNameNotNull()
         {
-            var customer = new Customer();
+            var customer = this._customerFixture.Cstmr;
             var exceptionDetails = Assert.Throws<ArgumentException>(() => customer.GetOrdersByName(""));
             Assert.Equal("Error Khordi ke ? ", exceptionDetails.Message);
         }
